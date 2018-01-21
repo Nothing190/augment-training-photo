@@ -10,7 +10,7 @@ This code will help you to create .jpg photos which all have the same size to us
      * _class2_
      * _classXX_
 2. The code will ask which size your training photos for the network should have
-3. The Code will find the biggest width/ height auf all photos in every training class
+3. The Code will find the biggest width/ height of all photos in every training class
 4. Every photo will be squared in every training class (e.g. 500x500 pixel if the biggest width/ height was 500 pixel of your training photos in a certain class)
 5. Every photo which is smaller than the biggest width/ height will keep the old size but gets a black border to reach consistent size for every photo
 6. Every photo will get the size which you want to train your network
